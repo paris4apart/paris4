@@ -6,16 +6,19 @@
             "description": "aciklama",
             "photos": [],
             "amount": 60
-        },
+        }
+    },
+     {
+        "type": "+",
         "plus": {
             "who": [
                 {
-                    "name": "",
+                    "name": "Ahmet Sancar",
                     "number": 1,
                     "amount": 250
                 }
             ],
-            "description": "aciklama",
+            "description": "Daire 12 harici tum daireler aidat toplandi",
             "total": 3750
         },
         "date": {
