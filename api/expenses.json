@@ -1,0 +1,27 @@
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "baslik",
+            "description": "aciklama",
+            "photos": [],
+            "amount": 60
+        },
+        "plus": {
+            "who": [
+                {
+                    "name": "",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "aciklama",
+            "total": 3750
+        },
+        "date": {
+            "day": 12,
+            "month": "Temmuz",
+            "year": 2024
+        }
+    }
+]
