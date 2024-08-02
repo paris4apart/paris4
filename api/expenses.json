@@ -23,7 +23,7 @@
         "minus": {
             "title": "Altyapı bakımı",
             "description": "Türk Telekom ekipleri tarafından binamızın internet kablolarındaki arızalar giderildikten sonra açıkta bırakılan internet kablolarının hasar görmemesi için 1 torba çimento (60₺x15kg) alındı ve kabloların üzerine uygulandı.",
-            "photos": ["/images/001.jpg","/images/002.jpg","/images/003.jpg"],
+            "photos": ["https://paris4.online/images/001.jpg","https://paris4.online/images/002.jpg","https://paris4.online/images/003.jpg"],
             "amount": 60
         },
         "date": {
