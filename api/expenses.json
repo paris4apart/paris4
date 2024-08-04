@@ -4,7 +4,7 @@
         "type": "-",
         "minus": {
             "title": "Ampul değişimi",
-            "description": "Çatı katında oturan kiracıların talebi üzerine çatı katındaki patlamış olan 2 adet ampul, 1 adet tasarruflu ampul ile değiştirildi.",
+            "description": "Çatı katında oturan kiracıların talebi üzerine çatı katı koridorundaki patlamış olan 2 adet ampul, 1 adet tasarruflu ampul ile değiştirildi.",
             "photos": [],
             "amount": 36
         },
@@ -47,7 +47,7 @@
         "plus": {
             "who": [
                 {
-                    "name": "",
+                    "name": "A B.",
                     "number": 1,
                     "amount": 250
                 }
