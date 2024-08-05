@@ -19,7 +19,8 @@
         "minus": {
             "title": "Su tesisat bakımı",
             "description": "Bina içinde tüm katlardan geçen su borularının etrafındaki boşlukları kapatmak için silikon alındı ve hortumların etrafındaki boşluklara uygulandı.",
-            "photos": [],
+            "photos": ["https://paris4.online/images/005.jpg",
+               "https://paris4.online/images/006.jpg"],
             "amount": 90
         },
         "date": {
