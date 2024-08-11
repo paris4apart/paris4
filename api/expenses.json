@@ -1,4 +1,18 @@
 [
+       {
+        "type": "-",
+        "minus": {
+            "title": "Ağustos ayı temizlik",
+            "description": "Ağustos ayı boyunca 10 günde bir defa olmak üzere toplamda 3 defa yapılacak olan bina içi merdivenleri ve dış kapı önünün temizliği.",
+            "photos": [],
+            "amount": 1500
+        },
+        "date": {
+            "day": 1,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
 
          {
         "type": "-",
