@@ -19,11 +19,11 @@
         "minus": {
             "title": "Ampul değişimi",
             "description": "Çatı katında oturan kiracıların talebi üzerine çatı katı koridorundaki patlamış olan 2 adet ampul, 1 adet tasarruflu ampul ile değiştirildi.",
-            "photos": [],
+            "photos": ["https://paris4.online/images/006.jp","https://paris4.online/images/007.jp","https://paris4.online/images/008.jp","https://paris4.online/images/009.jp"],
             "amount": 36
         },
         "date": {
-            "day": 28,
+            "day": 31,
             "month": "Temmuz",
             "year": 2024
         }
@@ -33,8 +33,8 @@
         "minus": {
             "title": "Su tesisat bakımı",
             "description": "Bina içinde tüm katlardan geçen su borularının etrafındaki boşlukları kapatmak için silikon alındı ve hortumların etrafındaki boşluklara uygulandı.",
-            "photos": ["https://paris4.online/images/005.jpg",
-               "https://paris4.online/images/006.jpg"],
+            "photos": ["https://paris4.online/images/004.jpg",
+               "https://paris4.online/images/005.jpg"],
             "amount": 90
         },
         "date": {
