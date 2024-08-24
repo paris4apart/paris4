@@ -1,4 +1,32 @@
-[
+[ {
+        "type": "-",
+        "minus": {
+            "title": "Giriş kat merdiven tadilatı",
+            "description": "Merdivenler temizlenirken, alt kat merdiveninden akan suların, merdivenin altındaki havasız alanın nemlenmesine ve çürümesine yol açmasını engellemek amacıyla alınan plastik parça merdivene yapıştırıldı.",
+            "photos": [],
+            "amount": 30
+        },
+        "date": {
+            "day": 21,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
+       
+        {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik Faturası",
+            "description": "",
+            "photos": [],
+            "amount": 855
+        },
+        "date": {
+            "day": 20,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
        {
         "type": "-",
         "minus": {
