@@ -1,4 +1,19 @@
-[ {
+[
+        {
+        "type": "-",
+        "minus": {
+            "title": "Mantar Pano",
+            "description": "",
+            "photos": [],
+            "amount": 175
+        },
+        "date": {
+            "day": 23,
+            "month": "Ağustos",
+            "year": 2024
+        }
+    },
+        {
         "type": "-",
         "minus": {
             "title": "Giriş kat merdiven tadilatı",
