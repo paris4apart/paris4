@@ -18,7 +18,7 @@
         "minus": {
             "title": "Giriş kat merdiven tadilatı",
             "description": "Merdivenler temizlenirken, alt kat merdiveninden akan suların, merdivenin altındaki havasız alanın nemlenmesine ve çürümesine yol açmasını engellemek amacıyla alınan plastik parça merdivene yapıştırıldı.",
-            "photos": [],
+             "photos": ["https://paris4.online/images/012.jpg","https://paris4.online/images/013.jpg"],
             "amount": 30
         },
         "date": {
@@ -33,7 +33,7 @@
         "minus": {
             "title": "Elektrik Faturası",
             "description": "",
-            "photos": [],
+            "photos": ["https://paris4.online/images/010.jpg","https://paris4.online/images/011.jpg"],
             "amount": 855
         },
         "date": {
