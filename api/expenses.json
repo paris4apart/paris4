@@ -1,4 +1,18 @@
 [
+          {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik Faturası",
+            "description": "",
+            "photos": ["https://paris4.online/images/019.jpg","https://paris4.online/images/020.jpg"],
+            "amount": 855
+        },
+        "date": {
+            "day": 20,
+            "month": "Eylül",
+            "year": 2024
+        }
+    },
         {
         "type": "-",
         "minus": {
