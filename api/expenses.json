@@ -1,8 +1,8 @@
 [ {
     "type": "-",
     "minus": {
-        "title": "",
-        "description": "Elektrik faturası",
+        "title": "Elektrik faturası",
+        "description": "",
         "photos": ["https://paris4.online/images/025.jpg"],
         "amount": 195
     },
@@ -15,8 +15,8 @@
     {
         "type": "-",
         "minus": {
-            "title": "",
-            "description": "Doğalgaz tesisatı",
+            "title": "Doğalgaz tesisatı",
+            "description": "Merkezi sistemin çalışabilmesi için gerekli tesisat işlemleri.",
             "photos": ["https://paris4.online/images/023.jpg","https://paris4.online/images/024.jpg"],
             "amount": 950
         },
@@ -29,8 +29,8 @@
 {
     "type": "-",
     "minus": {
-        "title": "",
-        "description": "Doğalgaz borcu",
+        "title": "Doğalgaz borcu",
+        "description": "Geçmiş dönemlerden kalan birikmiş doğalgaz borcu, doğalgazın açılabilmesi için ödendi.",
         "photos": ["https://paris4.online/images/022.jpg"],
         "amount": 1512
     },
@@ -111,7 +111,7 @@
         "minus": {
             "title": "Mantar pano",
             "description": "",
-            "photos": ["https://paris4.online/images/013.jpg","https://paris4.online/images/018.jpg"],
+            "photos": ["https://paris4.online/images/014.jpg","https://paris4.online/images/018.jpg"],
             "amount": 175
         },
         "date": {
