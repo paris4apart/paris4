@@ -1,23 +1,96 @@
-[ {
-    "type": "-",
-    "minus": {
-        "title": "Elektrik faturası",
-        "description": "",
-        "photos": ["https://paris4.online/images/025.jpg"],
-        "amount": 195
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/028.jpg"
+            ],
+            "amount": 1
+        },
+        "date": {
+            "day": 99999,
+            "month": "Aralık",
+            "year": 2024
+        }
     },
-    "date": {
-        "day": 31,
-        "month": "Ekim",
-        "year": 2024
-    }
-},
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/027.jpg"
+            ],
+            "amount": 660
+        },
+        "date": {
+            "day": 5,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": " 628 TL aidat",
+            "total": 1
+        },
+        "date": {
+            "day": 99999,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/026.jpg"
+            ],
+            "amount": 1981
+        },
+        "date": {
+            "day": 12,
+            "month": "Kasım",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/025.jpg"
+            ],
+            "amount": 195
+        },
+        "date": {
+            "day": 31,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
     {
         "type": "-",
         "minus": {
             "title": "Doğalgaz tesisatı",
             "description": "Merkezi sistemin çalışabilmesi için gerekli tesisat işlemleri.",
-            "photos": ["https://paris4.online/images/023.jpg","https://paris4.online/images/024.jpg"],
+            "photos": [
+                "https://paris4.online/images/023.jpg",
+                "https://paris4.online/images/024.jpg"
+            ],
             "amount": 950
         },
         "date": {
@@ -25,24 +98,26 @@
             "month": "Ekim",
             "year": 2024
         }
-    } ,
-{
-    "type": "-",
-    "minus": {
-        "title": "Doğalgaz borcu",
-        "description": "Geçmiş dönemlerden kalan birikmiş doğalgaz borcu, doğalgazın açılabilmesi için ödendi.",
-        "photos": ["https://paris4.online/images/022.jpg"],
-        "amount": 1512
     },
-    "date": {
-        "day": 25,
-        "month": "Ekim",
-        "year": 2024
-    }
-},
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz borcu",
+            "description": "Geçmiş dönemlerden kalan birikmiş doğalgaz borcu, doğalgazın açılabilmesi için ödendi.",
+            "photos": [
+                "https://paris4.online/images/022.jpg"
+            ],
+            "amount": 1512
+        },
+        "date": {
+            "day": 25,
+            "month": "Ekim",
+            "year": 2024
+        }
+    },
     {
         "type": "+",
-           "plus": {
+        "plus": {
             "who": [
                 {
                     "name": "A B.",
@@ -59,12 +134,14 @@
             "year": 2024
         }
     },
-      {
+    {
         "type": "-",
         "minus": {
             "title": "Elektrik aboneliği açma bedeli",
             "description": "",
-            "photos": ["https://paris4.online/images/021.jpg"],
+            "photos": [
+                "https://paris4.online/images/021.jpg"
+            ],
             "amount": 739
         },
         "date": {
@@ -73,9 +150,9 @@
             "year": 2024
         }
     },
-          {
+    {
         "type": "+",
-           "plus": {
+        "plus": {
             "who": [
                 {
                     "name": "A B.",
@@ -92,12 +169,15 @@
             "year": 2024
         }
     },
-          {
+    {
         "type": "-",
         "minus": {
             "title": "Elektrik faturası",
             "description": "",
-            "photos": ["https://paris4.online/images/019.jpg","https://paris4.online/images/020.jpg"],
+            "photos": [
+                "https://paris4.online/images/019.jpg",
+                "https://paris4.online/images/020.jpg"
+            ],
             "amount": 765
         },
         "date": {
@@ -106,12 +186,15 @@
             "year": 2024
         }
     },
-        {
+    {
         "type": "-",
         "minus": {
             "title": "Mantar pano",
             "description": "",
-            "photos": ["https://paris4.online/images/014.jpg","https://paris4.online/images/018.jpg"],
+            "photos": [
+                "https://paris4.online/images/014.jpg",
+                "https://paris4.online/images/018.jpg"
+            ],
             "amount": 175
         },
         "date": {
@@ -120,12 +203,15 @@
             "year": 2024
         }
     },
-        {
+    {
         "type": "-",
         "minus": {
             "title": "Giriş kat merdiven tadilatı",
             "description": "Merdivenler temizlenirken, alt kat merdiveninden akan suların, merdivenin altındaki havasız alanın nemlenmesine ve çürümesine yol açmasını engellemek amacıyla alınan plastik parça merdivene yapıştırıldı.",
-             "photos": ["https://paris4.online/images/012.jpg","https://paris4.online/images/013.jpg"],
+            "photos": [
+                "https://paris4.online/images/012.jpg",
+                "https://paris4.online/images/013.jpg"
+            ],
             "amount": 30
         },
         "date": {
@@ -134,13 +220,15 @@
             "year": 2024
         }
     },
-       
-        {
+    {
         "type": "-",
         "minus": {
             "title": "Elektrik faturası",
             "description": "",
-            "photos": ["https://paris4.online/images/010.jpg","https://paris4.online/images/011.jpg"],
+            "photos": [
+                "https://paris4.online/images/010.jpg",
+                "https://paris4.online/images/011.jpg"
+            ],
             "amount": 855
         },
         "date": {
@@ -149,7 +237,7 @@
             "year": 2024
         }
     },
-       {
+    {
         "type": "-",
         "minus": {
             "title": "Ağustos ayı temizlik",
@@ -163,13 +251,17 @@
             "year": 2024
         }
     },
-
-         {
+    {
         "type": "-",
         "minus": {
             "title": "Ampul değişimi",
             "description": "Çatı katında oturan kiracıların talebi üzerine çatı katı koridorundaki patlamış olan 2 adet ampul, 1 adet tasarruflu ampul ile değiştirildi.",
-            "photos": ["https://paris4.online/images/006.jpg","https://paris4.online/images/007.jpg","https://paris4.online/images/008.jpg","https://paris4.online/images/009.jpg"],
+            "photos": [
+                "https://paris4.online/images/006.jpg",
+                "https://paris4.online/images/007.jpg",
+                "https://paris4.online/images/008.jpg",
+                "https://paris4.online/images/009.jpg"
+            ],
             "amount": 36
         },
         "date": {
@@ -178,13 +270,15 @@
             "year": 2024
         }
     },
-         {
+    {
         "type": "-",
         "minus": {
             "title": "Su tesisat bakımı",
             "description": "Bina içinde tüm katlardan geçen su borularının etrafındaki boşlukları kapatmak için silikon alındı ve hortumların etrafındaki boşluklara uygulandı.",
-            "photos": ["https://paris4.online/images/004.jpg",
-               "https://paris4.online/images/005.jpg"],
+            "photos": [
+                "https://paris4.online/images/004.jpg",
+                "https://paris4.online/images/005.jpg"
+            ],
             "amount": 90
         },
         "date": {
@@ -193,12 +287,16 @@
             "year": 2024
         }
     },
-         {
+    {
         "type": "-",
         "minus": {
             "title": "Altyapı bakımı",
             "description": "Türk Telekom ekipleri tarafından binamızın internet kablolarındaki arızalar giderildikten sonra açıkta bırakılan internet kablolarının hasar görmemesi için 1 torba çimento (60₺x15kg) alındı ve kabloların üzerine uygulandı.",
-            "photos": ["https://paris4.online/images/001.jpg","https://paris4.online/images/002.jpg","https://paris4.online/images/003.jpg"],
+            "photos": [
+                "https://paris4.online/images/001.jpg",
+                "https://paris4.online/images/002.jpg",
+                "https://paris4.online/images/003.jpg"
+            ],
             "amount": 60
         },
         "date": {
@@ -206,8 +304,8 @@
             "month": "Temmuz",
             "year": 2024
         }
-    }  ,
-     {
+    },
+    {
         "type": "+",
         "plus": {
             "who": [
@@ -226,5 +324,4 @@
             "year": 2024
         }
     }
- 
 ]
