@@ -7,10 +7,10 @@
             "photos": [
                 "https://paris4.online/images/028.jpg"
             ],
-            "amount": 1
+            "amount": 6781
         },
         "date": {
-            "day": 99999,
+            "day": 5,
             "month": "Aralık",
             "year": 2024
         }
@@ -41,11 +41,11 @@
                     "amount": 250
                 }
             ],
-            "description": " 628 TL aidat",
-            "total": 1
+            "description": "9 ve 12 numaralı daireler hariç, 13 daireden 628'er TL olarak toplamda 8164 TL toplandı.",
+            "total": 8164
         },
         "date": {
-            "day": 99999,
+            "day": 5,
             "month": "Aralık",
             "year": 2024
         }
