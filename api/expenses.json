@@ -2,6 +2,22 @@
     {
         "type": "-",
         "minus": {
+            "title": "Temizlik",
+            "description": "Bina içerisi çok fazla kirlendiği için temizlik yapıldı.",
+            "photos": [
+                "https://paris4.online/images/029.jpg", "https://paris4.online/images/030.jpg", "https://paris4.online/images/031.jpg", "https://paris4.online/images/032.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 27,
+            "month": "Aralık",
+            "year": 2024
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
