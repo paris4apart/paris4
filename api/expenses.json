@@ -2,10 +2,48 @@
     {
         "type": "-",
         "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/033.jpg"
+            ],
+            "amount": 770
+        },
+        "date": {
+            "day": 8,
+            "month": "Ocak",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "Daire başına 560 TL toplanma işlemi devam ediyor.",
+            "total": 1
+        },
+        "date": {
+            "day": 6,
+            "month": "Ocak",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
             "title": "Temizlik",
             "description": "Bina içerisi çok fazla kirlendiği için temizlik yapıldı.",
             "photos": [
-                "https://paris4.online/images/029.jpg", "https://paris4.online/images/030.jpg", "https://paris4.online/images/031.jpg", "https://paris4.online/images/032.jpg"
+                "https://paris4.online/images/029.jpg",
+                "https://paris4.online/images/030.jpg",
+                "https://paris4.online/images/031.jpg",
+                "https://paris4.online/images/032.jpg"
             ],
             "amount": 500
         },
