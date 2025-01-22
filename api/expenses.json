@@ -1,4 +1,19 @@
 [
+     {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+            ],
+            "amount": 7614
+        },
+        "date": {
+            "day": 22,
+            "month": "Ocak",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
