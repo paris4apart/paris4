@@ -5,6 +5,7 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
+                "https://paris4.online/images/035.jpg",
             ],
             "amount": 666
         },
@@ -39,6 +40,7 @@
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
+                 "https://paris4.online/images/034.jpg",
             ],
             "amount": 7614
         },
