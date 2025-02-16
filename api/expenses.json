@@ -1,4 +1,38 @@
 [
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+            ],
+            "amount": 666
+        },
+        "date": {
+            "day": 6,
+            "month": "Şubat",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "1,5,9 ve 11 numaralar hariç geriye kalan 11 daireden daire başına 560 TL toplandı",
+            "total": 6160
+        },
+        "date": {
+            "day": 6,
+            "month": "Şubat",
+            "year": 2025
+        }
+    },
      {
         "type": "-",
         "minus": {
@@ -40,8 +74,8 @@
                     "amount": 250
                 }
             ],
-            "description": "5,9,11 ve 12 numaralar hariç geriye kalan 11 daireden daire başına 560 TL toplandı",
-            "total": 6160
+            "description": "5,9 ve 11 numaralar hariç geriye kalan 12 daireden daire başına 560 TL toplandı.",
+            "total": 6720
         },
         "date": {
             "day": 6,
@@ -110,8 +144,8 @@
                     "amount": 250
                 }
             ],
-            "description": "9 ve 12 numaralı daireler hariç, 13 daireden 628'er TL olarak toplamda 8164 TL toplandı.",
-            "total": 8164
+            "description": "9 numaralı daire hariç, 14 daireden 628'er TL olarak toplamda 8.792 TL toplandı.",
+            "total": 8792
         },
         "date": {
             "day": 5,
@@ -194,8 +228,8 @@
                     "amount": 250
                 }
             ],
-            "description": "12 numara hariç geriye kalan 14 daireden 500'er TL olmak üzere, toplamda 7.000 TL aidat toplandı.",
-            "total": 7000
+            "description": "15 daireden 500'er TL olmak üzere, toplamda 7.500 TL toplandı.",
+            "total": 7500
         },
         "date": {
             "day": 20,
@@ -384,8 +418,8 @@
                     "amount": 250
                 }
             ],
-            "description": "Daire 12 haricinde diğer 15 daireden toplamda 3.750₺ toplandı.",
-            "total": 3750
+            "description": "16 daireden daire başına 250'er TL olmak üzere, toplamda 4.000₺ toplandı.",
+            "total": 4000
         },
         "date": {
             "day": 12,
