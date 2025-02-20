@@ -2,6 +2,22 @@
     {
         "type": "-",
         "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/036.jpg"
+            ],
+            "amount": 7681
+        },
+        "date": {
+            "day": 20,
+            "month": "Şubat",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
