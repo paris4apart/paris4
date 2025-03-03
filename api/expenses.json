@@ -1,4 +1,17 @@
-[
+[ {
+    "type": "-",
+    "minus": {
+        "title": "Kapı hidroliği",
+        "description": "Dış kapının hidroluğu olmadığı için sürekli açık kalıyordu, bu da iç mekanın fazla kirlenmesine ve çok soğumasına sebep oluyordu. Kapının otomatik kapanması gerektiği için bir hidrolik sistem temin edilerek kapıya monte edildi. Kapı ağır olduğu için güçlü ve kaliteli (5 numara) bir hidrolik tercih edildi.",
+        "photos": [ ],
+        "amount": 1500
+    },
+    "date": {
+        "day": 3,
+        "month": "Mart",
+        "year": 2025
+    }
+},
     {
         "type": "-",
         "minus": {
