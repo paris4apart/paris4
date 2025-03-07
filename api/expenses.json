@@ -1,17 +1,90 @@
-[ {
-    "type": "-",
-    "minus": {
-        "title": "Kapı hidroliği",
-        "description": "Dış kapının hidroliği olmadığı için sürekli açık kalıyordu, bu da iç mekanın fazla kirlenmesine ve çok soğumasına sebep oluyordu. Kapının otomatik kapanması gerektiği için bir hidrolik sistem temin edilerek kapıya monte edildi. Kapı ağır olduğu için güçlü (5 numara) ve kaliteli bir hidrolik tercih edildi.",
-        "photos": [ ],
-        "amount": 1500
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "Kapıkulpu",
+            "description": "Kapı hidrolığı takıldıktan sonra dış kapının içeriden açılmasını kolaylaştırmak için yapı marketten metal kulp alınıp kapıya monte edildi.",
+            "photos": [
+                "https://paris4.online/images/046.jpg",  "https://paris4.online/images/047.jpg",  "https://paris4.online/images/048.jpg",  "https://paris4.online/images/049.jpg"
+            ],
+            "amount": 110
+        },
+        "date": {
+            "day": 7,
+            "month": "Mart",
+            "year": 2025
+        }
     },
-    "date": {
-        "day": 3,
-        "month": "Mart",
-        "year": 2025
-    }
-},
+    {
+        "type": "-",
+        "minus": {
+            "title": "Temizlik",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/042.jpg", "https://paris4.online/images/043.jpg", "https://paris4.online/images/044.jpg", "https://paris4.online/images/045.jpg"
+            ],
+            "amount": 500
+        },
+        "date": {
+            "day": 7,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/041.jpg"
+            ],
+            "amount": 595
+        },
+        "date": {
+            "day": 3,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "Daire başına 590 TL toplama işlemi başladı",
+            "total": 1
+        },
+        "date": {
+            "day": 3,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Kapı hidroliği",
+            "description": "Dış kapının hidroliği olmadığı için sürekli açık kalıyordu, bu da iç mekanın fazla kirlenmesine ve çok soğumasına sebep oluyordu. Kapının otomatik kapanması gerektiği için bir hidrolik sistem temin edilerek kapıya monte edildi. Kapı ağır olduğu için güçlü (5 numara) ve kaliteli bir hidrolik tercih edildi.",
+            "photos": [
+                "https://paris4.online/images/037.jpg",
+                "https://paris4.online/images/038.jpg",
+                "https://paris4.online/images/039.jpg",
+                "https://paris4.online/images/040.jpg"
+            ],
+            "amount": 1500
+        },
+        "date": {
+            "day": 3,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
@@ -63,13 +136,13 @@
             "year": 2025
         }
     },
-     {
+    {
         "type": "-",
         "minus": {
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
-                 "https://paris4.online/images/034.jpg"
+                "https://paris4.online/images/034.jpg"
             ],
             "amount": 7614
         },
