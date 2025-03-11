@@ -1,4 +1,20 @@
 [
+       {
+        "type": "-",
+        "minus": {
+            "title": "Kırtasiye",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/050.jpg",  "https://paris4.online/images/051.jpg"
+            ],
+            "amount": 2
+        },
+        "date": {
+            "day": 11,
+            "month": "Mart",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
