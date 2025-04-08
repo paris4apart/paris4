@@ -1,11 +1,12 @@
 [
-       {
+    {
         "type": "-",
         "minus": {
             "title": "Kırtasiye",
             "description": "",
             "photos": [
-                "https://paris4.online/images/050.jpg",  "https://paris4.online/images/051.jpg"
+                "https://paris4.online/images/050.jpg",
+                "https://paris4.online/images/051.jpg"
             ],
             "amount": 2
         },
@@ -21,7 +22,10 @@
             "title": "Kapı kulpu",
             "description": "Kapı hidrolığı takıldıktan sonra dış kapının içeriden açılmasını kolaylaştırmak için yapı marketten metal kulp alınıp kapıya monte edildi.",
             "photos": [
-                "https://paris4.online/images/046.jpg",  "https://paris4.online/images/047.jpg",  "https://paris4.online/images/048.jpg",  "https://paris4.online/images/049.jpg"
+                "https://paris4.online/images/046.jpg",
+                "https://paris4.online/images/047.jpg",
+                "https://paris4.online/images/048.jpg",
+                "https://paris4.online/images/049.jpg"
             ],
             "amount": 110
         },
@@ -37,7 +41,10 @@
             "title": "Temizlik",
             "description": "",
             "photos": [
-                "https://paris4.online/images/042.jpg", "https://paris4.online/images/043.jpg", "https://paris4.online/images/044.jpg", "https://paris4.online/images/045.jpg"
+                "https://paris4.online/images/042.jpg",
+                "https://paris4.online/images/043.jpg",
+                "https://paris4.online/images/044.jpg",
+                "https://paris4.online/images/045.jpg"
             ],
             "amount": 500
         },
@@ -73,8 +80,8 @@
                     "amount": 250
                 }
             ],
-            "description": "Daire başına 590 TL toplama işlemi başladı",
-            "total": 1
+            "description": "1, 5, 9, 11 ve 12 numaralı daireler hariç, geriye kalan 10 daireden 590'ar TL olmak üzere toplamda 5.900 TL toplandı.",
+            "total": 5900
         },
         "date": {
             "day": 3,
