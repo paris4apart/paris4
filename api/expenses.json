@@ -1,4 +1,22 @@
-[
+[{
+    "type": "+",
+    "plus": {
+        "who": [
+            {
+                "name": "A B.",
+                "number": 1,
+                "amount": 250
+            }
+        ],
+        "description": "1, 13 ve 15 numarali dairelerden 540'ar TL olmak üzere toplamda 1.620 TL toplandı.",
+        "total": 1620
+    },
+    "date": {
+        "day": 8,
+        "month": "Nisan",
+        "year": 2025
+    }
+},
     {
         "type": "-",
         "minus": {
@@ -80,8 +98,8 @@
                     "amount": 250
                 }
             ],
-            "description": "1, 5, 9, 11 ve 12 numaralı daireler hariç, geriye kalan 10 daireden 590'ar TL olmak üzere toplamda 5.900 TL toplandı.",
-            "total": 5900
+            "description": "5, 9, 11 ve 12 numaralı daireler hariç, geriye kalan 11 daireden 590'ar TL olmak üzere toplamda 6.490 TL toplandı.",
+            "total": 6490
         },
         "date": {
             "day": 3,
