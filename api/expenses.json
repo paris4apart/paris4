@@ -1,22 +1,39 @@
-[{
-    "type": "+",
-    "plus": {
-        "who": [
-            {
-                "name": "A B.",
-                "number": 1,
-                "amount": 250
-            }
-        ],
-        "description": "1, 13 ve 15 numarali dairelerden 540'ar TL olmak üzere toplamda 1.620 TL toplandı.",
-        "total": 1620
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "Doğalgaz faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/052.jpg"
+            ],
+            "amount": 8027
+        },
+        "date": {
+            "day": 8,
+            "month": "Nisan",
+            "year": 2025
+        }
     },
-    "date": {
-        "day": 8,
-        "month": "Nisan",
-        "year": 2025
-    }
-},
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "1, 13 ve 15 numarali dairelerden 540'ar TL olmak üzere toplamda 1.620 TL toplandı.",
+            "total": 1620
+        },
+        "date": {
+            "day": 8,
+            "month": "Nisan",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
