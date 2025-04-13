@@ -1,4 +1,19 @@
-[
+[ {
+    "type": "-",
+    "minus": {
+        "title": "Elektrik faturası",
+        "description": "",
+        "photos": [
+            "https://paris4.online/images/053.jpg"
+        ],
+        "amount": 600
+    },
+    "date": {
+        "day": 12,
+        "month": "Nisan",
+        "year": 2025
+    }
+},
     {
         "type": "-",
         "minus": {
@@ -25,8 +40,8 @@
                     "amount": 250
                 }
             ],
-            "description": "1, 13 ve 15 numarali dairelerden 540'ar TL olmak üzere toplamda 1.620 TL toplandı.",
-            "total": 1620
+            "description": "1,2,6, 13 ve 15 numarali dairelerden 540'ar TL olmak üzere toplamda 2.700 TL toplandı.",
+            "total": 2700
         },
         "date": {
             "day": 8,
