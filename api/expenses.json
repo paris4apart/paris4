@@ -1,4 +1,40 @@
-[ {
+[
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/054.jpg","https://paris4.online/images/055.jpg"
+            ],
+            "amount": 743
+        },
+        "date": {
+            "day": 3,
+            "month": "Mayıs",
+            "year": 2025
+        }
+    },
+    {
+        "type": "+",
+        "plus": {
+            "who": [
+                {
+                    "name": "A B.",
+                    "number": 1,
+                    "amount": 250
+                }
+            ],
+            "description": "0 daireden 280'er TL olmak üzere toplamda 0 TL toplandı.",
+            "total": 0
+        },
+        "date": {
+            "day": 3,
+            "month": "Mayıs",
+            "year": 2025
+        }
+    },
+    {
     "type": "-",
     "minus": {
         "title": "Elektrik faturası",
