@@ -5,7 +5,8 @@
             "title": "Elektrik faturası",
             "description": "",
             "photos": [
-                "https://paris4.online/images/054.jpg","https://paris4.online/images/055.jpg"
+                "https://paris4.online/images/054.jpg",
+                "https://paris4.online/images/055.jpg"
             ],
             "amount": 743
         },
@@ -25,7 +26,7 @@
                     "amount": 250
                 }
             ],
-            "description": "2,4,5,6,7,14,15 ve 16 nolu dairelerden 280'er TL olmak üzere toplamda 2.240 TL toplandı.",
+            "description": "1,8,9,10,11,12 ve 13 numaralı daireler hariç, geriye kalan 8 daireden 280'er TL olmak üzere toplamda 2.240 TL toplandı.",
             "total": 2240
         },
         "date": {
@@ -35,21 +36,21 @@
         }
     },
     {
-    "type": "-",
-    "minus": {
-        "title": "Elektrik faturası",
-        "description": "",
-        "photos": [
-            "https://paris4.online/images/053.jpg"
-        ],
-        "amount": 600
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/053.jpg"
+            ],
+            "amount": 600
+        },
+        "date": {
+            "day": 12,
+            "month": "Nisan",
+            "year": 2025
+        }
     },
-    "date": {
-        "day": 12,
-        "month": "Nisan",
-        "year": 2025
-    }
-},
     {
         "type": "-",
         "minus": {
