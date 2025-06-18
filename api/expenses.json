@@ -25,8 +25,8 @@
                     "amount": 250
                 }
             ],
-            "description": "1,2,6,7,9,10,11,12 ve 14 numaralı daireler hariç, geriye kalan 6 daireden 108'er TL olmak üzere toplamda 648 TL toplandı.",
-            "total": 648
+            "description": "1,2,6,7,9,11,12 ve 14 numaralı daireler hariç, geriye kalan 7 daireden 108'er TL olmak üzere toplamda 756 TL toplandı.",
+            "total": 756
         },
         "date": {
             "day": 3,
@@ -77,8 +77,8 @@
                     "amount": 250
                 }
             ],
-            "description": "9,10,11 ve 12 numaralı daireler hariç, geriye kalan 11 daireden 280'er TL olmak üzere toplamda 3.080 TL toplandı.",
-            "total": 3080
+            "description": "9,11 ve 12 numaralı daireler hariç, geriye kalan 12 daireden 280'er TL olmak üzere toplamda 3.360 TL toplandı.",
+            "total": 3360
         },
         "date": {
             "day": 3,
@@ -128,8 +128,8 @@
                     "amount": 250
                 }
             ],
-            "description": "9,10 ve 11 numaralı daireler hariç, geriye kalan 12 daireden 540'ar TL olmak üzere toplamda 6.480 TL toplandı.",
-            "total": 6480
+            "description": "9 ve 11 numaralı daireler hariç, geriye kalan 13 daireden 540'ar TL olmak üzere toplamda 7.020 TL toplandı.",
+            "total": 7020
         },
         "date": {
             "day": 8,
