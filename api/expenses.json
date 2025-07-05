@@ -1,4 +1,19 @@
-[
+[ {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/058.jpg"
+            ],
+            "amount": 100
+        },
+        "date": {
+            "day": 3,
+            "month": "Temmuz",
+            "year": 2025
+        }
+    },
     {
         "type": "-",
         "minus": {
