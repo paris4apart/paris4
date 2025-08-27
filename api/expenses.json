@@ -2,6 +2,38 @@
     {
         "type": "-",
         "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/061.jpg"
+            ],
+            "amount": 90
+        },
+        "date": {
+            "day": 20,
+            "month": "Ağustos",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
+            "title": "Elektrik faturası",
+            "description": "",
+            "photos": [
+                "https://paris4.online/images/060.jpg"
+            ],
+            "amount": 105
+        },
+        "date": {
+            "day": 3,
+            "month": "Ağustos",
+            "year": 2025
+        }
+    },
+    {
+        "type": "-",
+        "minus": {
             "title": "Doğalgaz faturası",
             "description": "",
             "photos": [
